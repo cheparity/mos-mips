@@ -1,0 +1,4 @@
+-Wall
+-std=c++11
+-I/~/21371348/include/**
+-lfmt
